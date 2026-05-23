@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+PyMuPDF
+pytesseract
+Pillow
+plotly
+pandas
+fpdf
+pyttsx3
+bcrypt
+scikit-learn

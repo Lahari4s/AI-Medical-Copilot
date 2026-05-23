@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+healthcare_app.db
+temp.pdf
+temp_report.pdf
+chat_memory.json
