@@ -51,7 +51,8 @@ OPENROUTER_API_KEY=your_api_key
 
 # 📸 Screenshots
 
-(Add screenshots here later)
+<img width="1920" height="911" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/82eb938d-8b33-4533-9ff3-c54eda46acd2" />
+
 
 ---
 
