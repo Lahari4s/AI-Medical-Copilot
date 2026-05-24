@@ -44,7 +44,7 @@ streamlit run app.py
 Create `.env`
 
 ```env
-OPENROUTER_API_KEY=your_api_key
+OPENROUTER_API_KEY=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
 ```
 
 ---
